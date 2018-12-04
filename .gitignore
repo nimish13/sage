@@ -1,0 +1,10 @@
+/.bundle/
+/Gemfile.lock
+/doc/
+/pkg/
+/tmp/
+*.bundle
+mkmf.log
+*.swp
+*.swo
+vendor/bundle
